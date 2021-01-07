@@ -1,5 +1,4 @@
 import React from "react";
-import notes from "../notes";
 
 function Footer(props) {
     return (
